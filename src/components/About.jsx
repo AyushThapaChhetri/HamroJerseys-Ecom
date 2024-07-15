@@ -19,6 +19,7 @@ const About = () => {
           Sincerely,<br />
           The JerseyHub Team
         </p>
+        <p>Hamrai Jersy pasal Tapai kai sath ma</p>
       </div>
     </section>
   );
