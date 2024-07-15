@@ -19,6 +19,7 @@ const About = () => {
           Sincerely,<br />
           The JerseyHub Team
         </p>
+        <p>Mother father gentle man</p>
       </div>
     </section>
   );
